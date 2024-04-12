@@ -1,0 +1,1 @@
+Download airborne hyperspectral image and corresponding ground truth from Baidu Netdisk to this directory.

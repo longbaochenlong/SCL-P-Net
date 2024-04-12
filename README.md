@@ -10,7 +10,7 @@ Run GFFB_data_preprocess.py to divide samples into training and test dataset in 
 # Step 3
 Run GFFB_SCL_P_Net_train.py to train the optimal model and test it.
 # Step 4
-Run GFFB_classification_map.py to generate classification model using the optimal model.
+Run GFFB_classification_map.py to generate classification map using the optimal model.
 # Deep learning environment
 torch 1.13.1
 cuda 11.6
